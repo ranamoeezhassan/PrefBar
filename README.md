@@ -2,7 +2,9 @@
 
 [![GitHub downloads](https://img.shields.io/github/downloads/X1NONs/PrefBar/total?style=for-the-badge)](https://github.com/X1NONs/PrefBar/releases)
 
-**Version 0.2.0**
+**Latest release: [v0.1.3 — Download ELF](https://github.com/X1NONs/PrefBar/releases/download/v0.1.3/PrefBar-complete_V0.1.3.elf)**
+
+**Development version: 0.2.0**
 **(Major architectural rebuild, introducing a cleaner structure, improved efficiency, an optimized runtime, and expanded customization options.)**
 
 A standalone on-screen performance overlay for jailbroken PlayStation 5 consoles. PrefBar displays live performance and system telemetry directly over your games, without requiring a separate renderer payload.
@@ -28,7 +30,7 @@ Metric availability depends on the PS5 firmware and runtime environment. An unav
 
 ## 🎮 How to use it
 
-1. Download `PrefBar-complete_V0.2.0.elf` from [GitHub Releases](https://github.com/X1NONs/PrefBar/releases).
+1. Download the [latest released payload (`PrefBar-complete_V0.1.3.elf`)](https://github.com/X1NONs/PrefBar/releases/download/v0.1.3/PrefBar-complete_V0.1.3.elf).
 2. Load the combined ELF on your jailbroken PS5 using your usual payload loader.
 3. Start a game. PrefBar waits for the game and ShellUI to be ready; allow a few seconds for initialization. The overlay normally appears in the top-left corner.
 4. Triple-click the DualSense touchpad to toggle the overlay on or off. It is enabled by default.
